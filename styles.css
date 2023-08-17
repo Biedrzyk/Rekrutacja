@@ -8,9 +8,39 @@
     font-weight: bold;
   }
 
+  .navbar {
+    width: 1262px;
+    height: 72px;
+  }
+
   .article {
     background-color: rgba(220, 193, 171, 1);
-    width: 720px;
+    width: 631px;
     height: 368px;
     border: solid;
+  }
+
+  .carousell {
+    width: 631px;
+    height: 368px;
+    border: solid;
+  }
+
+  .carousel-big {
+    width: 1262px;
+  }
+
+  div .carousel-item {
+    width: 631px;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .carousel-inner, .carousel-item {
+    height: 100vh;
+  }
+  
+  .carousel-item img {
+    height: 100%;
+    object-fit: cover;
   }
