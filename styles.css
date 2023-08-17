@@ -7,3 +7,10 @@
   .title1 {
     font-weight: bold;
   }
+
+  .article {
+    background-color: rgba(220, 193, 171, 1);
+    width: 720px;
+    height: 368px;
+    border: solid;
+  }
