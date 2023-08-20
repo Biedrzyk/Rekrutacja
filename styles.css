@@ -1,3 +1,7 @@
+body {
+  width: 1262px;
+}
+
 .container {
     max-width: 1140px;
     padding: 0 20px;
@@ -30,17 +34,16 @@
     width: 1262px;
   }
 
-  div .carousel-item {
-    width: 631px;
-    height: 100%;
-    object-fit: cover;
-  }
-
   .carousel-inner, .carousel-item {
     height: 100vh;
   }
   
   .carousel-item img {
-    height: 100%;
     object-fit: cover;
+  }
+
+  .three {
+    width: 1262px;
+    height: 368px;
+    border: solid;
   }
