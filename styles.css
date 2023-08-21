@@ -42,6 +42,12 @@ body {
     object-fit: cover;
   }
 
+  .offer {
+    width: 1262px;
+    height: 368px;
+    border: solid;
+  }
+
   .three {
     width: 1262px;
     height: 368px;
